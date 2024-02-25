@@ -1,329 +1,334 @@
 {
-    "albums":[
+  "albums": [
     {
-        "title": "What's Going On",
-        "album-art": "",
-        "artist": "Marvin Gaye",
-        "year": 1971,
-        "length": {
-            "minutes": 35,
-            "seconds": 32
-        },
-        "label":"Tamla",
-        "genres": ["Soul"],
-        "id": 1
+      "title": "What's Going On",
+      "album-art": "https://m.media-amazon.com/images/I/719kIe1npJL._UF1000,1000_QL80_.jpg",
+      "artist": "Marvin Gaye",
+      "year": 1971,
+      "length": {
+        "minutes": 35,
+        "seconds": 32
+      },
+      "label": "Tamla",
+      "genres": ["Soul"],
+      "id": 1
     },
     {
-        "title": "Pet Sounds",
-        "album-art": "",
-        "artist": "The Beach Boys",
-        "year":1966,
-        "length": {
-            "minutes":35,
-            "seconds":37
-        },
-        "label":"Capitol",
-        "genres": ["Progressive Pop","Chamber Pop","Psychedelic Pop","Art Rock"],
-        "id": 2
+      "title": "Pet Sounds",
+      "album-art": "https://mediaareplural.ca/wp-content/uploads/2022/04/pet-sounds.jpg",
+      "artist": "The Beach Boys",
+      "year": 1966,
+      "length": {
+        "minutes": 35,
+        "seconds": 37
+      },
+      "label": "Capitol",
+      "genres": [
+        "Progressive Pop",
+        "Chamber Pop",
+        "Psychedelic Pop",
+        "Art Rock"
+      ],
+      "id": 2
     },
     {
-        "title": "Blue",
-        "album-art": "",
-        "artist": "Joni Mitchell",
-        "year":1971,
-        "length": {
-            "minutes":36,
-            "seconds":15
-        },
-        "label":"Reprise",
-        "genres": ["Folk","Folk Rock"],
-        "id": 3
+      "title": "Blue",
+      "album-art": "https://i.ytimg.com/vi/MvR7Dkg4NQU/maxresdefault.jpg",
+      "artist": "Joni Mitchell",
+      "year": 1971,
+      "length": {
+        "minutes": 36,
+        "seconds": 15
+      },
+      "label": "Reprise",
+      "genres": ["Folk", "Folk Rock"],
+      "id": 3
     },
     {
-        "title": "Songs in the Key of Life",
-        "album-art": "",
-        "artist": "Stevie Wonder",
-        "year": 1976,
-        "length": {
-            "minutes":104,
-            "seconds":29
-        },
-        "label":"Tamla",
-        "genres": ["R&B","Soul","Pop"],
-        "id": 4
+      "title": "Songs in the Key of Life",
+      "album-art": "https://m.media-amazon.com/images/I/61JpnY+8KkL._UF1000,1000_QL80_.jpg",
+      "artist": "Stevie Wonder",
+      "year": 1976,
+      "length": {
+        "minutes": 104,
+        "seconds": 29
+      },
+      "label": "Tamla",
+      "genres": ["R&B", "Soul", "Pop"],
+      "id": 4
     },
     {
-        "title": "Abbey Road",
-        "album-art": "",
-        "artist": "The Beatles",
-        "year":1969,
-        "length": {
-            "minutes":47,
-            "seconds":"03"
-        },
-        "label":"Apple",
-        "genres": ["Rock"],
-        "id": 5
+      "title": "Abbey Road",
+      "album-art": "https://images.radiox.co.uk/images/67172?width=1400&crop=16_9&signature=oOzOBNznUl35DsUl5UoB-DVZlRQ=",
+      "artist": "The Beatles",
+      "year": 1969,
+      "length": {
+        "minutes": 47,
+        "seconds": "03"
+      },
+      "label": "Apple",
+      "genres": ["Rock"],
+      "id": 5
     },
     {
-        "title": "Nevermind",
-        "album-art": "",
-        "artist": "Nirvana",
-        "year":1991,
-        "length": {
-            "minutes":42,
-            "seconds":36
-        },
-        "label":"DGC",
-        "genres": ["Grunge", "Alternative Rock"],
-        "id": 6
+      "title": "Nevermind",
+      "album-art": "https://images.prismic.io/milanote/df7eeb83a07162b45ac2e882cac055de9411054a_cover.jpg?auto=compress,format",
+      "artist": "Nirvana",
+      "year": 1991,
+      "length": {
+        "minutes": 42,
+        "seconds": 36
+      },
+      "label": "DGC",
+      "genres": ["Grunge", "Alternative Rock"],
+      "id": 6
     },
     {
-        "title": "Rumours",
-        "album-art": "",
-        "artist": "Fleetwood Mac",
-        "year":1977,
-        "length": {
-            "minutes":38,
-            "seconds":55
-        },
-        "label":"Warner Bros.",
-        "genres": ["Pop Rock","Soft Rock"],
-        "id": 7
+      "title": "Rumours",
+      "album-art": "https://americansongwriter.com/wp-content/uploads/2022/09/71BekDJBb3L._SL1425_.jpg?resize=1024,1024",
+      "artist": "Fleetwood Mac",
+      "year": 1977,
+      "length": {
+        "minutes": 38,
+        "seconds": 55
+      },
+      "label": "Warner Bros.",
+      "genres": ["Pop Rock", "Soft Rock"],
+      "id": 7
     },
     {
-        "title": "Purple Rain",
-        "album-art": "",
-        "artist": "Prince and the Revolution",
-        "year":1984,
-        "length": {
-            "minutes":43,
-            "seconds":55
-        },
-        "label":"Warner Bros.",
-        "genres": ["Pop", "Rock", "R&B"],
-        "id": 8
+      "title": "Purple Rain",
+      "album-art": "https://i.discogs.com/l0a5-0YlkLtJZKmpNKI5d8qClX6vTbkflRqk0oVVGxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTQz/NTEtMTIwNDA1NTgz/Ni5qcGVn.jpeg",
+      "artist": "Prince and the Revolution",
+      "year": 1984,
+      "length": {
+        "minutes": 43,
+        "seconds": 55
+      },
+      "label": "Warner Bros.",
+      "genres": ["Pop", "Rock", "R&B"],
+      "id": 8
     },
     {
-        "title": "Blood on the Tracks",
-        "album-art": "",
-        "artist": "Bob Dylan",
-        "year": 1975,
-        "length": {
-            "minutes":51,
-            "seconds":46
-        },
-        "label":"Columbia",
-        "genres": ["Folk Rock"],
-        "id": 9
+      "title": "Blood on the Tracks",
+      "album-art": "https://i.discogs.com/EIIXDUs8dlP4Tfq-vquzdz64nyT5DB096H6NQ0D2gYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTE5/MDgtMTQ0NDcwNjcw/NC04ODY2LmpwZWc.jpeg",
+      "artist": "Bob Dylan",
+      "year": 1975,
+      "length": {
+        "minutes": 51,
+        "seconds": 46
+      },
+      "label": "Columbia",
+      "genres": ["Folk Rock"],
+      "id": 9
     },
     {
-        "title": "The Miseducation of Lauryn Hill",
-        "album-art": "",
-        "artist": "Lauryn Hill",
-        "year":1998,
-        "length": {
-            "minutes":77,
-            "seconds":39
-        },
-        "label":"Ruffhouse, Columbia",
-        "genres": ["Neo Soul", "R&B", "Hip Hop"],
-        "id": 10
+      "title": "The Miseducation of Lauryn Hill",
+      "album-art": "https://m.media-amazon.com/images/I/71YmBlTMamL._UF1000,1000_QL80_.jpg",
+      "artist": "Lauryn Hill",
+      "year": 1998,
+      "length": {
+        "minutes": 77,
+        "seconds": 39
+      },
+      "label": "Ruffhouse, Columbia",
+      "genres": ["Neo Soul", "R&B", "Hip Hop"],
+      "id": 10
     },
     {
-        "title": "Revolver",
-        "album-art": "",
-        "artist": "The Beatles",
-        "year":1966,
-        "length": {
-            "minutes":35,
-            "seconds":"01"
-        },
-        "label":"Parlophone, Capitol",
-        "genres": ["Rock","Pop","R&B"],
-        "id": 11
+      "title": "Revolver",
+      "album-art": "https://www.thebeatles.com/sites/default/files/2021-06/Revolver.jpg",
+      "artist": "The Beatles",
+      "year": 1966,
+      "length": {
+        "minutes": 35,
+        "seconds": "01"
+      },
+      "label": "Parlophone, Capitol",
+      "genres": ["Rock", "Pop", "R&B"],
+      "id": 11
     },
     {
-        "title": "Thriller",
-        "album-art": "",
-        "artist": "Michael Jackson",
-        "year":1982,
-        "length": {
-            "minutes":42,
-            "seconds":16
-        },
-        "label":"Epic",
-        "genres": ["Pop","Rock","Funk","R&B"],
-        "id": 12
+      "title": "Thriller",
+      "album-art": "https://m.media-amazon.com/images/I/712aTlKjhqL._UF1000,1000_QL80_.jpg",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "length": {
+        "minutes": 42,
+        "seconds": 16
+      },
+      "label": "Epic",
+      "genres": ["Pop", "Rock", "Funk", "R&B"],
+      "id": 12
     },
     {
-        "title": "I Never Loved a Man the Way I Love You",
-        "album-art": "",
-        "artist": "Aretha Franklin",
-        "year":1967,
-        "length": {
-            "minutes":32,
-            "seconds":51
-        },
-        "label":"Atlantic",
-        "genres": ["Soul"],
-        "id": 13
+      "title": "I Never Loved a Man the Way I Love You",
+      "album-art": "https://m.media-amazon.com/images/I/81Ez8-3qQaL._UF1000,1000_QL80_.jpg",
+      "artist": "Aretha Franklin",
+      "year": 1967,
+      "length": {
+        "minutes": 32,
+        "seconds": 51
+      },
+      "label": "Atlantic",
+      "genres": ["Soul"],
+      "id": 13
     },
     {
-        "title": "Exile on Main Street",
-        "album-art": "",
-        "artist": "The Rolling Stones",
-        "year":1972,
-        "length": {
-            "minutes":67,
-            "seconds":"07"
-        },
-        "label":"Rolling Stones",
-        "genres": ["Rock","Country Blues"],
-        "id": 14
+      "title": "Exile on Main Street",
+      "album-art": "https://cms.artcenter.edu/image/7874/b11",
+      "artist": "The Rolling Stones",
+      "year": 1972,
+      "length": {
+        "minutes": 67,
+        "seconds": "07"
+      },
+      "label": "Rolling Stones",
+      "genres": ["Rock", "Country Blues"],
+      "id": 14
     },
     {
-        "title": "It Takes a Nation of Millions to Hold Us Back",
-        "album-art": "",
-        "artist": "Public Enemy",
-        "year":1988,
-        "length": {
-            "minutes":57,
-            "seconds":51
-        },
-        "label":"Def Jam, Columbia",
-        "genres": ["Hip Hop","Rap"],
-        "id": 15
+      "title": "It Takes a Nation of Millions to Hold Us Back",
+      "album-art": "https://images.genius.com/4b8fb5bc7ae749351157e40f88ba1c61.1000x1000x1.jpg",
+      "artist": "Public Enemy",
+      "year": 1988,
+      "length": {
+        "minutes": 57,
+        "seconds": 51
+      },
+      "label": "Def Jam, Columbia",
+      "genres": ["Hip Hop", "Rap"],
+      "id": 15
     },
     {
-        "title": "London Calling",
-        "album-art": "",
-        "artist": "The Clash",
-        "year":1979,
-        "length": {
-            "minutes":65,
-            "seconds":"07"
-        },
-        "label":"CBS, Epic",
-        "genres": ["Punk Rock", "Post Punk"],
-        "id": 16
+      "title": "London Calling",
+      "album-art": "https://m.media-amazon.com/images/I/71DUFxaoLGL._UF1000,1000_QL80_.jpg",
+      "artist": "The Clash",
+      "year": 1979,
+      "length": {
+        "minutes": 65,
+        "seconds": "07"
+      },
+      "label": "CBS, Epic",
+      "genres": ["Punk Rock", "Post Punk"],
+      "id": 16
     },
     {
-        "title": "My Beautiful Dark Twisted Fantasy",
-        "album-art": "",
-        "artist": "Kanye West",
-        "year":2010,
-        "length": {
-            "minutes":68,
-            "seconds":39
-        },
-        "label":"Def Jam, Roc-A-Fella",
-        "genres": ["Hip Hop","Rap"],
-        "id": 17
+      "title": "My Beautiful Dark Twisted Fantasy",
+      "album-art": "https://m.media-amazon.com/images/I/91dHRGIV65L._UF1000,1000_QL80_.jpg",
+      "artist": "Kanye West",
+      "year": 2010,
+      "length": {
+        "minutes": 68,
+        "seconds": 39
+      },
+      "label": "Def Jam, Roc-A-Fella",
+      "genres": ["Hip Hop", "Rap"],
+      "id": 17
     },
     {
-        "title": "Highway 61 Revisited",
-        "album-art": "",
-        "artist": "Bob Dylan",
-        "year":1965,
-        "length": {
-            "minutes":51,
-            "seconds":26
-        },
-        "label":"Columbia",
-        "genres": ["Folk Rock","Blues Rock"],
-        "id": 18
+      "title": "Highway 61 Revisited",
+      "album-art": "https://m.media-amazon.com/images/I/71kbAAdrzGL._UF1000,1000_QL80_.jpg",
+      "artist": "Bob Dylan",
+      "year": 1965,
+      "length": {
+        "minutes": 51,
+        "seconds": 26
+      },
+      "label": "Columbia",
+      "genres": ["Folk Rock", "Blues Rock"],
+      "id": 18
     },
     {
-        "title": "To Pimp a Butterfly",
-        "album-art": "",
-        "artist": "Kendrick Lamar",
-        "year":2015,
-        "length": {
-            "minutes":78,
-            "seconds":51
-        },
-        "label":"TDE, Aftermath, Interscope",
-        "genres": ["Hip Hop","Rap"],
-        "id": 19
+      "title": "To Pimp a Butterfly",
+      "album-art": "https://m.media-amazon.com/images/I/81VcA8-kuZL._UF1000,1000_QL80_.jpg",
+      "artist": "Kendrick Lamar",
+      "year": 2015,
+      "length": {
+        "minutes": 78,
+        "seconds": 51
+      },
+      "label": "TDE, Aftermath, Interscope",
+      "genres": ["Hip Hop", "Rap"],
+      "id": 19
     },
     {
-        "title": "Kid A",
-        "album-art": "",
-        "artist": "Radiohead",
-        "year":2000,
-        "length": {
-            "minutes":49,
-            "seconds":56
-        },
-        "label":"Parlophone, Capitol",
-        "genres": ["Experimental Rock","Post-Rock","Electronica"],
-        "id": 20
+      "title": "Kid A",
+      "album-art": "https://m.media-amazon.com/images/I/71I5kJS+dsL._UF1000,1000_QL80_.jpg",
+      "artist": "Radiohead",
+      "year": 2000,
+      "length": {
+        "minutes": 49,
+        "seconds": 56
+      },
+      "label": "Parlophone, Capitol",
+      "genres": ["Experimental Rock", "Post-Rock", "Electronica"],
+      "id": 20
     },
     {
-        "title": "Born to Run",
-        "album-art": "",
-        "artist": "Bruce Springsteen",
-        "year":1975,
-        "length": {
-            "minutes":39,
-            "seconds":23
-        },
-        "label":"Columbia",
-        "genres": ["Rock","R&B"],
-        "id": 21
+      "title": "Born to Run",
+      "album-art": "https://m.media-amazon.com/images/I/8127ICDt45L._UF1000,1000_QL80_.jpg",
+      "artist": "Bruce Springsteen",
+      "year": 1975,
+      "length": {
+        "minutes": 39,
+        "seconds": 23
+      },
+      "label": "Columbia",
+      "genres": ["Rock", "R&B"],
+      "id": 21
     },
     {
-        "title": "Ready to Die",
-        "album-art": "",
-        "artist": "The Notorious B.I.G.",
-        "year":1994,
-        "length": {
-            "minutes":69,
-            "seconds":"05"
-        },
-        "label":"Bad Boy, Arista",
-        "genres": ["Hip Hop"],
-        "id": 22
+      "title": "Ready to Die",
+      "album-art": "https://i.ytimg.com/vi/7fh3yQ46TUw/maxresdefault.jpg",
+      "artist": "The Notorious B.I.G.",
+      "year": 1994,
+      "length": {
+        "minutes": 69,
+        "seconds": "05"
+      },
+      "label": "Bad Boy, Arista",
+      "genres": ["Hip Hop"],
+      "id": 22
     },
     {
-        "title": "The Velvet Underground and Nico",
-        "album-art": "",
-        "artist": "The Velvet Underground",
-        "year":1967,
-        "length": {
-            "minutes":47,
-            "seconds":51
-        },
-        "label":"Verve",
-        "genres": ["Art Rock","Experimental Rock","Avant-Pop"],
-        "id": 23
+      "title": "The Velvet Underground and Nico",
+      "album-art": "https://muzikercdn.com/uploads/products/3733/373389/db176545.jpg",
+      "artist": "The Velvet Underground",
+      "year": 1967,
+      "length": {
+        "minutes": 47,
+        "seconds": 51
+      },
+      "label": "Verve",
+      "genres": ["Art Rock", "Experimental Rock", "Avant-Pop"],
+      "id": 23
     },
     {
-        "title": "Sgt. Pepper’s Lonely Hearts Club Band",
-        "album-art": "",
-        "artist": "The Beatles",
-        "year":1967,
-        "length": {
-            "minutes":39,
-            "seconds":36
-        },
-        "label":"Parlophone, Capitol",
-        "genres": ["Rock","Pop","Psychedelia","Art Rock"],
-        "id": 24
+      "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+      "album-art": "https://static1.squarespace.com/static/545a242be4b04f070d49e9eb/t/58b48e1520099ed92041c050/1488227864990/?format=1500w",
+      "artist": "The Beatles",
+      "year": 1967,
+      "length": {
+        "minutes": 39,
+        "seconds": 36
+      },
+      "label": "Parlophone, Capitol",
+      "genres": ["Rock", "Pop", "Psychedelia", "Art Rock"],
+      "id": 24
     },
     {
-        "title": "Tapestry",
-        "album-art": "",
-        "artist": "Carole King",
-        "year":1971,
-        "length": {
-            "minutes":44,
-            "seconds":31
-        },
-        "label":"Ode, A&M",
-        "genres": ["Soft Rock","Pop"],
-        "id": 25
+      "title": "Tapestry",
+      "album-art": "https://m.media-amazon.com/images/I/91iY062r42L._UF1000,1000_QL80_.jpg",
+      "artist": "Carole King",
+      "year": 1971,
+      "length": {
+        "minutes": 44,
+        "seconds": 31
+      },
+      "label": "Ode, A&M",
+      "genres": ["Soft Rock", "Pop"],
+      "id": 25
     }
-    ]
+  ]
 }
