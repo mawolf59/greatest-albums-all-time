@@ -3,6 +3,7 @@ import data from './albums.json'
 import Album from './components/Album'
 import Header from './components/Header'
 import Footer from './components/Footer'
+import Sidebar from './components/Sidebar'
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
           genre={album.genres}
         />
       ))}
+      <Sidebar />
       <Footer />
     </div>
   )

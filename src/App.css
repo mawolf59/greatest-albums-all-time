@@ -37,3 +37,12 @@ body {
 .company {
   color: gold;
 }
+
+.album_art {
+  height: 200px;
+}
+
+.album_info {
+  border-radius: 5px;
+  border-color: black;
+}
