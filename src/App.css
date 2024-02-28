@@ -4,15 +4,29 @@ body {
 }
 
 .header {
+  background-color: black;
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  height: 150px;
+  color: red;
+  margin: 0px;
+  border-color: silver;
+  border-radius: 3px;
 }
 
-.rolling-stone-logo {
-  size: 15px;
-  align-items: flex-start;
+.logo {
+  display: flex;
+  align-items: center;
+  height: 120px;
+  vertical-align: baseline;
 }
 
-.page-title {
+.name {
+  display: flex;
+  justify-content: space-around;
   text-align: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
 }
