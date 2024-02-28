@@ -10,7 +10,7 @@ const Album = (props) => {
         <h4>
           Label: {props.label}; {props.year}
         </h4>
-        <h4>{props.genre}</h4>
+        <h4>Genres: {props.genre}</h4>
         <h5>
           Album Length: {props.minutes}: {props.seconds}
         </h5>

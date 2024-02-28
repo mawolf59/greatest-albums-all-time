@@ -3,17 +3,22 @@ body {
   text-align: center;
 }
 
-.header,
-.footer {
+.header {
   background-color: black;
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
   height: 150px;
   color: red;
   margin: 0px;
-  border-color: silver;
-  border-radius: 3px;
+}
+
+.footer {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .logo,
@@ -24,8 +29,7 @@ body {
   vertical-align: baseline;
 }
 
-.name,
-.company {
+.name {
   display: flex;
   justify-content: space-around;
   text-align: center;
@@ -36,13 +40,34 @@ body {
 
 .company {
   color: gold;
-}
-
-.album_art {
-  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
 }
 
 .album_info {
   border-radius: 5px;
   border-color: black;
+  width: 80%;
+}
+
+.album_art {
+  height: 400px;
+  border: 20px;
+  border-color: silver;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.album_details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }

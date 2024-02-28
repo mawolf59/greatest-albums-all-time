@@ -8,6 +8,7 @@ import Sidebar from './components/Sidebar'
 const App = () => {
   return (
     <div className="App">
+      <Sidebar />
       <Header />
       {data.albums.map((album) => (
         <Album
@@ -23,7 +24,6 @@ const App = () => {
           genre={album.genres}
         />
       ))}
-      <Sidebar />
       <Footer />
     </div>
   )
