@@ -1,3 +1,18 @@
-body{
+body {
   margin: 0;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rolling-stone-logo {
+  size: 15px;
+  align-items: flex-start;
+}
+
+.page-title {
+  text-align: center;
 }

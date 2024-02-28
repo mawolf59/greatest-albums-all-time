@@ -1,13 +1,13 @@
 import './App.css'
 import data from './albums.json'
 import Album from './components/Album'
-import Sidebar from "./components/Sidebar"
+import Header from './components/Header'
 
 const App = () => {
   return (
     <div className="App">
-      <h1 className="Header">Rolling Stone: Greatest Albums of All Time</h1>
-      <main>
+      <Header />
+      <main className="album-info">
         {data.albums.map((album) => (
           <Album
             key={album.id}
@@ -19,7 +19,6 @@ const App = () => {
             seconds={album.length.seconds}
             label={album.label}
           />
-          <Sidebar />
         ))}
       </main>
     </div>
