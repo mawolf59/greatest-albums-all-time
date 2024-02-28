@@ -24,9 +24,9 @@
       },
       "label": "Capitol",
       "genres": [
-        "Progressive Pop",
-        "Chamber Pop",
-        "Psychedelic Pop",
+        "Progressive Pop, ",
+        "Chamber Pop, ",
+        "Psychedelic Pop, ",
         "Art Rock"
       ],
       "id": 2
@@ -41,7 +41,7 @@
         "seconds": 15
       },
       "label": "Reprise",
-      "genres": ["Folk", "Folk Rock"],
+      "genres": ["Folk, ", "Folk Rock"],
       "id": 3
     },
     {
@@ -54,7 +54,7 @@
         "seconds": 29
       },
       "label": "Tamla",
-      "genres": ["R&B", "Soul", "Pop"],
+      "genres": ["R&B, ", "Soul, ", "Pop"],
       "id": 4
     },
     {
@@ -80,7 +80,7 @@
         "seconds": 36
       },
       "label": "DGC",
-      "genres": ["Grunge", "Alternative Rock"],
+      "genres": ["Grunge, ", "Alternative Rock"],
       "id": 6
     },
     {
@@ -93,7 +93,7 @@
         "seconds": 55
       },
       "label": "Warner Bros.",
-      "genres": ["Pop Rock", "Soft Rock"],
+      "genres": ["Pop Rock, ", "Soft Rock"],
       "id": 7
     },
     {
@@ -106,7 +106,7 @@
         "seconds": 55
       },
       "label": "Warner Bros.",
-      "genres": ["Pop", "Rock", "R&B"],
+      "genres": ["Pop, ", "Rock, ", "R&B"],
       "id": 8
     },
     {
@@ -132,7 +132,7 @@
         "seconds": 39
       },
       "label": "Ruffhouse, Columbia",
-      "genres": ["Neo Soul", "R&B", "Hip Hop"],
+      "genres": ["Neo Soul, ", "R&B, ", "Hip Hop"],
       "id": 10
     },
     {
@@ -145,7 +145,7 @@
         "seconds": "01"
       },
       "label": "Parlophone, Capitol",
-      "genres": ["Rock", "Pop", "R&B"],
+      "genres": ["Rock, ", "Pop, ", "R&B"],
       "id": 11
     },
     {
@@ -158,7 +158,7 @@
         "seconds": 16
       },
       "label": "Epic",
-      "genres": ["Pop", "Rock", "Funk", "R&B"],
+      "genres": ["Pop, ", "Rock, ", "Funk, ", "R&B"],
       "id": 12
     },
     {
@@ -184,7 +184,7 @@
         "seconds": "07"
       },
       "label": "Rolling Stones",
-      "genres": ["Rock", "Country Blues"],
+      "genres": ["Rock, ", "Country Blues"],
       "id": 14
     },
     {
@@ -197,7 +197,7 @@
         "seconds": 51
       },
       "label": "Def Jam, Columbia",
-      "genres": ["Hip Hop", "Rap"],
+      "genres": ["Hip Hop, ", "Rap"],
       "id": 15
     },
     {
@@ -210,7 +210,7 @@
         "seconds": "07"
       },
       "label": "CBS, Epic",
-      "genres": ["Punk Rock", "Post Punk"],
+      "genres": ["Punk Rock, ", "Post Punk"],
       "id": 16
     },
     {
@@ -223,7 +223,7 @@
         "seconds": 39
       },
       "label": "Def Jam, Roc-A-Fella",
-      "genres": ["Hip Hop", "Rap"],
+      "genres": ["Hip Hop, ", "Rap"],
       "id": 17
     },
     {
@@ -236,7 +236,7 @@
         "seconds": 26
       },
       "label": "Columbia",
-      "genres": ["Folk Rock", "Blues Rock"],
+      "genres": ["Folk Rock, ", "Blues Rock"],
       "id": 18
     },
     {
@@ -249,7 +249,7 @@
         "seconds": 51
       },
       "label": "TDE, Aftermath, Interscope",
-      "genres": ["Hip Hop", "Rap"],
+      "genres": ["Hip Hop, ", "Rap"],
       "id": 19
     },
     {
@@ -262,7 +262,7 @@
         "seconds": 56
       },
       "label": "Parlophone, Capitol",
-      "genres": ["Experimental Rock", "Post-Rock", "Electronica"],
+      "genres": ["Experimental Rock, ", "Post-Rock, ", "Electronica"],
       "id": 20
     },
     {
@@ -275,7 +275,7 @@
         "seconds": 23
       },
       "label": "Columbia",
-      "genres": ["Rock", "R&B"],
+      "genres": ["Rock, ", "R&B"],
       "id": 21
     },
     {
@@ -301,7 +301,7 @@
         "seconds": 51
       },
       "label": "Verve",
-      "genres": ["Art Rock", "Experimental Rock", "Avant-Pop"],
+      "genres": ["Art Rock, ", "Experimental Rock, ", "Avant-Pop"],
       "id": 23
     },
     {
@@ -314,7 +314,7 @@
         "seconds": 36
       },
       "label": "Parlophone, Capitol",
-      "genres": ["Rock", "Pop", "Psychedelia", "Art Rock"],
+      "genres": ["Rock, ", "Pop, ", "Psychedelia, ", "Art Rock"],
       "id": 24
     },
     {
@@ -327,7 +327,7 @@
         "seconds": 31
       },
       "label": "Ode, A&M",
-      "genres": ["Soft Rock", "Pop"],
+      "genres": ["Soft Rock, ", "Pop"],
       "id": 25
     }
   ]
