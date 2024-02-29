@@ -8,22 +8,39 @@ import Sidebar from './components/Sidebar'
 const App = () => {
   return (
     <div className="App">
-      <Sidebar />
       <Header />
-      {data.albums.map((album) => (
-        <Album
-          key={album.id}
-          id={album.id}
-          title={album.title}
-          artist={album.artist}
-          year={album.year}
-          art={album.album_art}
-          minutes={album.length.minutes}
-          seconds={album.length.seconds}
-          label={album.label}
-          genre={album.genres}
-        />
-      ))}
+      <main>
+        {data.albums.map((album) => (
+          <Sidebar
+            key={album.id}
+            id={album.id}
+            title={album.title}
+            artist={album.artist}
+            year={album.year}
+            art={album.album_art}
+            minutes={album.length.minutes}
+            seconds={album.length.seconds}
+            label={album.label}
+            genre={album.genres}
+          />
+        ))}
+      </main>
+      <main>
+        {data.albums.map((album) => (
+          <Album
+            key={album.id}
+            id={album.id}
+            title={album.title}
+            artist={album.artist}
+            year={album.year}
+            art={album.album_art}
+            minutes={album.length.minutes}
+            seconds={album.length.seconds}
+            label={album.label}
+            genre={album.genres}
+          />
+        ))}
+      </main>
       <Footer />
     </div>
   )

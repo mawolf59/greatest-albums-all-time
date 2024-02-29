@@ -1,9 +1,9 @@
 const SideBar = (props) => {
   return (
-    <div className="side-bar">
+    <div className="sidebar">
       <div className="side-info">
         <ul>
-          {props.id}. {props.title}
+          {props.id}) {props.title}
         </ul>
       </div>
     </div>
