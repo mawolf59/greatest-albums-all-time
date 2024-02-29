@@ -1,6 +1,6 @@
 const Album = (props) => {
   return (
-    <div className="album_info">
+    <div className="album_info" id={props.id}>
       <h1 className="title">
         {props.id}. "{props.title}"
       </h1>
@@ -12,7 +12,7 @@ const Album = (props) => {
         </h4>
         <h4>Genres: {props.genre}</h4>
         <h5>
-          Album Length: {props.minutes}: {props.seconds}
+          Length: {props.minutes}:{props.seconds}
         </h5>
       </div>
     </div>

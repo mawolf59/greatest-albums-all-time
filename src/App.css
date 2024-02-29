@@ -40,11 +40,21 @@ body {
   grid-area: sidebar;
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
   text-align: left;
   background-color: black;
   color: white;
   width: 20vw;
   text-decoration: underline;
+  height: 100%;
+}
+
+a {
+  color: white;
+}
+
+ul {
+  list-style: none;
 }
 
 .album_info {
@@ -78,7 +88,7 @@ body {
 .album_details {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   width: 400px;
 }
 
