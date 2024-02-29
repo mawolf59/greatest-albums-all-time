@@ -9,7 +9,7 @@ body {
   grid-template-areas:
     'header header header header'
     'sidebar main main main'
-    'sidebar footer footer footer';
+    'footer footer footer footer';
 }
 
 .header {
@@ -43,9 +43,8 @@ body {
   text-align: left;
   background-color: black;
   color: white;
-  width: 30vw;
+  width: 20vw;
   text-decoration: underline;
-  position: sticky;
 }
 
 .album_info {
@@ -53,22 +52,27 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   border-radius: 5px;
   border-color: black;
-  width: 80vw;
+  width: 90%;
 }
 
 .album_art {
-  height: 400px;
-  width: 400px;
+  display: flex;
+  align-items: center;
+  height: 65vw;
+  width: 65vw;
   border: 20px;
-  border-color: silver;
+  border-color: black;
+  box-shadow: 10vw 10vw 5px silver inset;
 }
 
 .title {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  font-style: italic;
 }
 
 .album_details {
