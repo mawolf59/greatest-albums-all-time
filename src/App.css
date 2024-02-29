@@ -33,7 +33,6 @@ body {
 .name {
   display: flex;
   text-align: center;
-  font-size: 25px;
 }
 
 .sidebar {
@@ -47,14 +46,19 @@ body {
   width: 20vw;
   text-decoration: underline;
   height: 100%;
+  padding-right: 5px;
 }
 
 a {
-  color: white;
+  color: skyblue;
 }
 
 ul {
   list-style: none;
+}
+
+ul li {
+  padding-bottom: 10px;
 }
 
 .album_info {
@@ -71,8 +75,8 @@ ul {
 .album_art {
   display: flex;
   align-items: center;
-  height: 65vw;
-  width: 65vw;
+  height: 50vw;
+  width: 50vw;
   border: 20px;
   border-color: black;
   box-shadow: 10vw 10vw 5px silver inset;
