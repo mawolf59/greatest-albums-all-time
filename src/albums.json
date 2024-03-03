@@ -11,6 +11,7 @@
       },
       "label": "Tamla",
       "genres": ["Soul"],
+      "top-track": "",
       "id": 1
     },
     {
@@ -29,6 +30,7 @@
         "Psychedelic Pop, ",
         "Art Rock"
       ],
+      "top-track": "",
       "id": 2
     },
     {
@@ -42,6 +44,7 @@
       },
       "label": "Reprise",
       "genres": ["Folk, ", "Folk Rock"],
+      "top-track": "",
       "id": 3
     },
     {
@@ -55,6 +58,7 @@
       },
       "label": "Tamla",
       "genres": ["R&B, ", "Soul, ", "Pop"],
+      "top-track": "",
       "id": 4
     },
     {
@@ -68,6 +72,7 @@
       },
       "label": "Apple",
       "genres": ["Rock"],
+      "top-track": "",
       "id": 5
     },
     {
@@ -81,6 +86,7 @@
       },
       "label": "DGC",
       "genres": ["Grunge, ", "Alternative Rock"],
+      "top-track": "",
       "id": 6
     },
     {
@@ -94,6 +100,7 @@
       },
       "label": "Warner Bros.",
       "genres": ["Pop Rock, ", "Soft Rock"],
+      "top-track": "",
       "id": 7
     },
     {
@@ -107,6 +114,7 @@
       },
       "label": "Warner Bros.",
       "genres": ["Pop, ", "Rock, ", "R&B"],
+      "top-track": "",
       "id": 8
     },
     {
@@ -120,6 +128,7 @@
       },
       "label": "Columbia",
       "genres": ["Folk Rock"],
+      "top-track": "",
       "id": 9
     },
     {
@@ -133,6 +142,7 @@
       },
       "label": "Ruffhouse, Columbia",
       "genres": ["Neo Soul, ", "R&B, ", "Hip Hop"],
+      "top-track": "",
       "id": 10
     },
     {
@@ -146,6 +156,7 @@
       },
       "label": "Parlophone, Capitol",
       "genres": ["Rock, ", "Pop, ", "R&B"],
+      "top-track": "",
       "id": 11
     },
     {
@@ -159,6 +170,7 @@
       },
       "label": "Epic",
       "genres": ["Pop, ", "Rock, ", "Funk, ", "R&B"],
+      "top-track": "",
       "id": 12
     },
     {
@@ -172,6 +184,7 @@
       },
       "label": "Atlantic",
       "genres": ["Soul"],
+      "top-track": "",
       "id": 13
     },
     {
@@ -185,6 +198,7 @@
       },
       "label": "Rolling Stones",
       "genres": ["Rock, ", "Country Blues"],
+      "top-track": "",
       "id": 14
     },
     {
@@ -198,6 +212,7 @@
       },
       "label": "Def Jam, Columbia",
       "genres": ["Hip Hop, ", "Rap"],
+      "top-track": "",
       "id": 15
     },
     {
@@ -211,6 +226,7 @@
       },
       "label": "CBS, Epic",
       "genres": ["Punk Rock, ", "Post Punk"],
+      "top-track": "",
       "id": 16
     },
     {
@@ -224,6 +240,7 @@
       },
       "label": "Def Jam, Roc-A-Fella",
       "genres": ["Hip Hop, ", "Rap"],
+      "top-track": "",
       "id": 17
     },
     {
@@ -237,6 +254,7 @@
       },
       "label": "Columbia",
       "genres": ["Folk Rock, ", "Blues Rock"],
+      "top-track": "",
       "id": 18
     },
     {
@@ -250,6 +268,7 @@
       },
       "label": "TDE, Aftermath, Interscope",
       "genres": ["Hip Hop, ", "Rap"],
+      "top-track": "",
       "id": 19
     },
     {
@@ -263,6 +282,7 @@
       },
       "label": "Parlophone, Capitol",
       "genres": ["Experimental Rock, ", "Post-Rock, ", "Electronica"],
+      "top-track": "",
       "id": 20
     },
     {
@@ -276,6 +296,7 @@
       },
       "label": "Columbia",
       "genres": ["Rock, ", "R&B"],
+      "top-track": "",
       "id": 21
     },
     {
@@ -289,6 +310,7 @@
       },
       "label": "Bad Boy, Arista",
       "genres": ["Hip Hop"],
+      "top-track": "",
       "id": 22
     },
     {
@@ -302,6 +324,7 @@
       },
       "label": "Verve",
       "genres": ["Art Rock, ", "Experimental Rock, ", "Avant-Pop"],
+      "top-track": "",
       "id": 23
     },
     {
@@ -315,6 +338,7 @@
       },
       "label": "Parlophone, Capitol",
       "genres": ["Rock, ", "Pop, ", "Psychedelia, ", "Art Rock"],
+      "top-track": "",
       "id": 24
     },
     {
@@ -328,6 +352,7 @@
       },
       "label": "Ode, A&M",
       "genres": ["Soft Rock, ", "Pop"],
+      "top-track": "",
       "id": 25
     }
   ]
