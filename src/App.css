@@ -19,7 +19,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
   height: 150px;
   color: red;
   margin: 0px;
@@ -50,7 +50,7 @@ body {
 }
 
 a {
-  color: skyblue;
+  color: lightblue;
 }
 
 ul {
