@@ -5,7 +5,9 @@ const Album = (props) => {
         {props.id}. "{props.title}"
       </h1>
       <h2 className="artist">{props.artist}</h2>
-      <img className="album_art" src={props.art} alt={props.title} />
+      <a href={props.youtube}>
+        <img className="album_art" src={props.art} alt={props.title} />
+      </a>
       <div className="album_details">
         <h4>
           Label: {props.label}; {props.year}

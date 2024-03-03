@@ -75,11 +75,8 @@ ul li {
 .album_art {
   display: flex;
   align-items: center;
-  height: 50vw;
-  width: 50vw;
-  border: 20px;
-  border-color: black;
-  box-shadow: 10vw 10vw 5px silver inset;
+  height: 30vw;
+  width: 30vw;
 }
 
 .title {
@@ -93,7 +90,8 @@ ul li {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 400px;
+  width: 30vw;
+  font-size: 12px;
 }
 
 .footer {
