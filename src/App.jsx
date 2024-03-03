@@ -23,6 +23,7 @@ const App = () => {
             seconds={album.length.seconds}
             label={album.label}
             genre={album.genres}
+            youtube={album.youtube}
           />
         ))}
       </main>

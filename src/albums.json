@@ -11,7 +11,7 @@
       },
       "label": "Tamla",
       "genres": ["Soul"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=o5TmORitlKk&list=OLAK5uy_krxU85sRSpvmZqiwHyVmYNhKBDVgvj-CE",
       "id": 1
     },
     {
@@ -30,7 +30,7 @@
         "Psychedelic Pop, ",
         "Art Rock"
       ],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=3y44BJgkdZs&list=PLL-NbN8uTOij1Yet6F4pDxymUZ_Jyh3z5",
       "id": 2
     },
     {
@@ -44,7 +44,7 @@
       },
       "label": "Reprise",
       "genres": ["Folk, ", "Folk Rock"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=r6NZ_2TuLf8&list=OLAK5uy_kE1oquQlHqa_H8YJeHQ5Fw1aFJt4qlIjE",
       "id": 3
     },
     {
@@ -58,7 +58,7 @@
       },
       "label": "Tamla",
       "genres": ["R&B, ", "Soul, ", "Pop"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=_ZditPOzJnM&list=OLAK5uy_mcG_CMFTptcsuZrsFVztPqlrZaLuaGnSQ",
       "id": 4
     },
     {
@@ -72,7 +72,7 @@
       },
       "label": "Apple",
       "genres": ["Rock"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=oolpPmuK2I8&list=PLFAcddgaFN8yWW7akMNXmxt7xtRTpS8kA",
       "id": 5
     },
     {
@@ -86,7 +86,7 @@
       },
       "label": "DGC",
       "genres": ["Grunge, ", "Alternative Rock"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=7TDeBi34OtE&list=PLMxy067kbpQjRXmNGao7pvVoFaCTIZRze",
       "id": 6
     },
     {
@@ -100,7 +100,7 @@
       },
       "label": "Warner Bros.",
       "genres": ["Pop Rock, ", "Soft Rock"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=SLlYUlS_Awo&list=PLpg0EOoO2vdUxDyiIfZGjwfI8fh6JRvg6",
       "id": 7
     },
     {
@@ -114,7 +114,7 @@
       },
       "label": "Warner Bros.",
       "genres": ["Pop, ", "Rock, ", "R&B"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=eCM2dEWGf-o&list=OLAK5uy_nZh8Bqp7b-jedaxIGOtSoNPwk_FnqtaCk",
       "id": 8
     },
     {
@@ -128,7 +128,7 @@
       },
       "label": "Columbia",
       "genres": ["Folk Rock"],
-      "top-track": "",
+      "youtube": "OLAK5uy_lvz0faaZfaiCiyx9wWnvEl84d__8vIUT8",
       "id": 9
     },
     {
@@ -142,7 +142,7 @@
       },
       "label": "Ruffhouse, Columbia",
       "genres": ["Neo Soul, ", "R&B, ", "Hip Hop"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=c5v6s0vUbXY&list=OLAK5uy_lRo6wUst04Buqa-V-E55zmc2Dl_571ROs",
       "id": 10
     },
     {
@@ -156,7 +156,7 @@
       },
       "label": "Parlophone, Capitol",
       "genres": ["Rock, ", "Pop, ", "R&B"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=l0zaebtU-CA&list=PLg5pp7nrH0IqV2ESEZmmgWtECbzkS8d3O",
       "id": 11
     },
     {
@@ -170,7 +170,7 @@
       },
       "label": "Epic",
       "genres": ["Pop, ", "Rock, ", "Funk, ", "R&B"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=8KWf_-ofYgI&list=PLFAcddgaFN8zqIJrTakvM9qWnR7iIrXnj",
       "id": 12
     },
     {
@@ -184,7 +184,7 @@
       },
       "label": "Atlantic",
       "genres": ["Soul"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=8rRPc87wgug&list=OLAK5uy_nguOvRxZS2UYPGtgR81ALVoSMkT2_KTa0",
       "id": 13
     },
     {
@@ -198,7 +198,7 @@
       },
       "label": "Rolling Stones",
       "genres": ["Rock, ", "Country Blues"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=w5HP2Xcy_eQ&list=OLAK5uy_mlSgwMnHtgteaiw5pjyjZFc6T2Y8BX7bw",
       "id": 14
     },
     {
@@ -212,7 +212,7 @@
       },
       "label": "Def Jam, Columbia",
       "genres": ["Hip Hop, ", "Rap"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=UexhiKFCAAM&list=PLvsYXqtYjMYdnFAD77W56tkWtTQUwIFRA",
       "id": 15
     },
     {
@@ -226,7 +226,7 @@
       },
       "label": "CBS, Epic",
       "genres": ["Punk Rock, ", "Post Punk"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=EfK-WX2pa8c&list=PLrNpLntk0nNNBH-YdB1s2D2GcoRY_f18r",
       "id": 16
     },
     {
@@ -240,7 +240,7 @@
       },
       "label": "Def Jam, Roc-A-Fella",
       "genres": ["Hip Hop, ", "Rap"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=UTH1VNHLjng&list=PLzMq4yH_FvVa5kPgtKmgdzPssfmBUtO2C",
       "id": 17
     },
     {
@@ -254,7 +254,7 @@
       },
       "label": "Columbia",
       "genres": ["Folk Rock, ", "Blues Rock"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=IwOfCgkyEj0&list=PLXRKTcRs-Xs7rr36o5_Cs7fBn8B7KsmRG",
       "id": 18
     },
     {
@@ -268,7 +268,7 @@
       },
       "label": "TDE, Aftermath, Interscope",
       "genres": ["Hip Hop, ", "Rap"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=2kP8WiemdwU&list=PLFvR2bZRQluxdZmyfSj5mW5mvNmtvt6Un",
       "id": 19
     },
     {
@@ -282,7 +282,7 @@
       },
       "label": "Parlophone, Capitol",
       "genres": ["Experimental Rock, ", "Post-Rock, ", "Electronica"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=NUnXxh5U25Y&list=OLAK5uy_nZquM-iYg8ppQxrwe-KpcxH3FfcrL8smI",
       "id": 20
     },
     {
@@ -296,7 +296,7 @@
       },
       "label": "Columbia",
       "genres": ["Rock, ", "R&B"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=W2X0Gf9jfz8&list=OLAK5uy_nZs0gvllzGn7y9-5OuorN7W37HPrPGrn8",
       "id": 21
     },
     {
@@ -310,7 +310,7 @@
       },
       "label": "Bad Boy, Arista",
       "genres": ["Hip Hop"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=uoYgsd0-y9E&list=PLhWNDVRwYT0c7Y83IteKhjMTJxWTrwe9K",
       "id": 22
     },
     {
@@ -324,7 +324,7 @@
       },
       "label": "Verve",
       "genres": ["Art Rock, ", "Experimental Rock, ", "Avant-Pop"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=kSC_IoD-Bxw&list=PLo4LeeLtaeIt4bjN3lAvK9iMHm3rm_V_k",
       "id": 23
     },
     {
@@ -338,7 +338,7 @@
       },
       "label": "Parlophone, Capitol",
       "genres": ["Rock, ", "Pop, ", "Psychedelia, ", "Art Rock"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=QlgNMZnLsIQ&list=PLiN-7mukU_RGPPUIQW-QxH2Q2FJ81NqO0",
       "id": 24
     },
     {
@@ -352,7 +352,7 @@
       },
       "label": "Ode, A&M",
       "genres": ["Soft Rock, ", "Pop"],
-      "top-track": "",
+      "youtube": "https://www.youtube.com/watch?v=6913KnbMpHM&list=PL3TfuwJaxzIXj-S2TQzF6pHT3V9b8MpA3",
       "id": 25
     }
   ]
